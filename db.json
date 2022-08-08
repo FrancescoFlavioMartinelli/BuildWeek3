@@ -1,0 +1,25 @@
+{
+    "posts": [{
+        "id": 0,
+        "autore": 0,
+        "title": "test",
+        "body": "lorem ipsum dolor"
+    }],
+    "comments": [
+        {
+            "id": 0,
+            "idPost": 0,
+            "idUser": 0,
+            "body": "lorem ipsum dolor"
+        }
+    ],
+    "users": [{
+        "id": 0,
+        "username": "test",
+        "email": "test@test.test",
+        "password": "???",
+        "name": "Test test",
+        "age": 20
+    }]
+
+}
